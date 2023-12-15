@@ -6,6 +6,7 @@ etc,
 +.doc
 +.{
 +.*}
++.copyrht
 
 
 
